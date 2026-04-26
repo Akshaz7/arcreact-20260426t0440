@@ -13,7 +13,7 @@ function Hero() {
 function Schedule() {
   return (
     <section className="py-24 max-w-7xl mx-auto px-6">
-      <h2 className="text-6xl font-semibold text-white">Schedule</h2>
+      <h2 className="text-6xl font-semibold text-yellow-500">Schedule</h2>
       <ul className="text-neutral-400 mt-8 grid gap-8">
         <li className="border p-6 rounded-2xl hover:border-blue-500 transition duration-300">
           <h3 className="text-white text-lg">Day 1: Introduction & Networking</h3>
